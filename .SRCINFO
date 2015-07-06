@@ -1,7 +1,7 @@
 pkgbase = sequeljoe
 	pkgdesc = SQL database administration tool
 	pkgver = 0.4
-	pkgrel = 1
+	pkgrel = 2
 	url = http://sequeljoe.ohwg.net
 	arch = i686
 	arch = x86_64
